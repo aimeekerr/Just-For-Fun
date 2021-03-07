@@ -1,0 +1,1 @@
+A program I wrote to aid my coursework for the summer camp I worked at over the summer. Enter any number and it will show a visualiation of it by outputting that amount of circles!
